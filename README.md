@@ -3,7 +3,7 @@
 🌟 Hi there! I'm Sherry, a **UX/UI designer** passionate about building intuitive, visually appealing applications.  
 
 🎨 **UX/UI Design** – I create seamless user experiences that blend functionality with aesthetics.  
-🖥️ **Front-end Development** – I bring designs to life using Vue.js, Nuxt.js, TailwindCSS, and more.  
+🖥️ **Front-end Development** – I bring designs to life using Vue.js, TailwindCSS, and more.  
 📷 **Photography Enthusiast** – I capture and edit stunning visuals to enhance storytelling.  
 
 📌 **Currently working on:** 
