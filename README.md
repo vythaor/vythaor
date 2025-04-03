@@ -7,6 +7,7 @@
 📷 **Photography Enthusiast** – I capture and edit stunning visuals to enhance storytelling.  
 
 📌 **Currently working on:** 
+
 🔹 UX/UI research & design  
 🔹 Vue.js projects  
 
