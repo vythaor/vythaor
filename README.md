@@ -1,6 +1,5 @@
-## Hi there 👋
-## 👋 About Me  
-🌟 Hi there! I'm Sherry, a **UX/UI designer** passionate about building intuitive, visually appealing applications.  
+## Hi there 👋 
+🌟 I'm Sherry, a **UX/UI designer** passionate about building intuitive, visually appealing applications.  
 
 🎨 **UX/UI Design** – I create seamless user experiences that blend functionality with aesthetics.  
 🖥️ **Front-end Development** – I bring designs to life using Vue.js, TailwindCSS, and more.  
@@ -33,6 +32,9 @@
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+## 
+I'm trying to be more hardworking than a shower 🐧 
 
+![image](https://github.com/user-attachments/assets/a5258c28-dbda-487b-991b-985f23127bdd)
 
 
