@@ -18,8 +18,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vythaor&show_icons=true&theme=default)
 
-![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=vythaor&color=blue)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vythaor&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vythaor)
