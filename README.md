@@ -3,15 +3,17 @@
 
 🎨 **UX/UI Design** – I create seamless user experiences that blend functionality with aesthetics.  
 🖥️ **Front-end Development** – I bring designs to life using Vue.js, TailwindCSS, and more.  
-📷 **Photography Enthusiast** – I capture and edit stunning visuals to enhance storytelling.  
+📷 **Photography Enthusiast** – more than just photos, I enjoy post-processing images with deeper adjustments
 
 📌 **Currently working on:** 
 
-🔹 UX/UI research & design  
-🔹 Vue.js projects  
+UX/UI design
+Web development
+Photography
+Creative works
 
 📬 **Let's connect!**  
-💼 [Portfolio](https://vythaor.design) | 💻 [LinkedIn](https://www.linkedin.com/in/vythaor/) 
+💼 [Portfolio](https://vythao.design) | 💻 [LinkedIn](https://www.linkedin.com/in/vythaor/) 
 
 
 ### My GitHub Stats
