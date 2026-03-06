@@ -7,9 +7,9 @@
 
 📌 **Currently working on:** 
 
-UX/UI design
-Web development
-Photography
+UX/UI design  
+Web development  
+Photography  
 Creative works
 
 📬 **Let's connect!**  
