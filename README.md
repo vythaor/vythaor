@@ -10,7 +10,7 @@
 UX/UI design  
 Web development  
 Photography  
-Creative works
+Creative work
 
 📬 **Let's connect!**  
 💼 [Portfolio](https://vythao.design) | 💻 [LinkedIn](https://www.linkedin.com/in/vythaor/) 
