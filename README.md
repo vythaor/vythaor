@@ -5,13 +5,6 @@
 🖥️ **Front-end Development** – I bring designs to life using Vue.js, TailwindCSS, and more.  
 📷 **Photography Enthusiast** – more than just photos, I enjoy post-processing images with deeper adjustments
 
-📌 **Currently working on:** 
-
-UX/UI design  
-Web development  
-Photography  
-Creative work
-
 📬 **Let's connect!**  
 💼 [Portfolio](https://vythao.design) | 💻 [LinkedIn](https://www.linkedin.com/in/vythaor/) 
 
