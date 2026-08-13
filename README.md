@@ -3,7 +3,7 @@
 
 🎨 **UX/UI Design** – Experienced designer working across multiple domains and global markets.  
 🖥️ **Front-end Development** – Currently getting back into learning JavaScript: Vue, React, NextJs.  
-📷 **Freelance Photographer ** – more than just photos, I enjoy post-processing images with deeper adjustments
+📷 **Freelance Photographer** – more than just photos, I enjoy post-processing images with deeper adjustments
 
 📬 **Let's connect!**  
 💼 [Portfolio](https://vythao.design) | 💻 [LinkedIn](https://www.linkedin.com/in/vythaor/) 
