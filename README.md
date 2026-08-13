@@ -1,9 +1,9 @@
 ## Hi there 👋 
-🌟 I'm Sherry, a **UX/UI designer** passionate about building intuitive, visually appealing applications.  
+🌟 I'm Sherry, a **UX/UI designer**, my expertise:  
 
-🎨 **UX/UI Design** – I create seamless user experiences that blend functionality with aesthetics.  
-🖥️ **Front-end Development** – I bring designs to life using Vue.js, TailwindCSS, and more.  
-📷 **Photography Enthusiast** – more than just photos, I enjoy post-processing images with deeper adjustments
+🎨 **UX/UI Design** – Experienced designer working across multiple domains and global markets.  
+🖥️ **Front-end Development** – Currently getting back into learning JavaScript: Vue, React, NextJs.  
+📷 **Freelance Photographer ** – more than just photos, I enjoy post-processing images with deeper adjustments
 
 📬 **Let's connect!**  
 💼 [Portfolio](https://vythao.design) | 💻 [LinkedIn](https://www.linkedin.com/in/vythaor/) 
